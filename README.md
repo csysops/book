@@ -1,8 +1,8 @@
 # book
 - be fr with yur computer mate!!
-links: 
-- https://teachyourselfcs.com
-- https://github.com/talalalrawajfeh/mathematics-roadmap
+- links: 
+-- https://teachyourselfcs.com
+-- https://github.com/talalalrawajfeh/mathematics-roadmap
 
 
 pattern
