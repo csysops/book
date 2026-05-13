@@ -1,13 +1,14 @@
 # book
+be fr with yur computer mate!!
 enjoyable thing \
 learn cs the hard way \
 all disrete things you learned will come to you one day \
 links: 
-- https://teachyourselfcs.com
-- https://github.com/talalalrawajfeh/mathematics-roadmap
+https://teachyourselfcs.com
+https://github.com/talalalrawajfeh/mathematics-roadmap
 
 
-# where recoginized thing reside
+where recoginized thing reside
 - computer architecture:
   - `architecture`: what programmer sees (x86-64, arm)
   - `micro-architecture`: how cpu implements that arch internally
