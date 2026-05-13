@@ -1,11 +1,11 @@
 # book
-be fr with yur computer mate!!
-enjoyable thing \
-learn cs the hard way \
-all disrete things you learned will come to you one day \
+- be fr with yur computer mate!!
+enjoyable thing
+- learn cs the hard way
+- all disrete things you learned will come to you one day
 links: 
-https://teachyourselfcs.com
-https://github.com/talalalrawajfeh/mathematics-roadmap
+- https://teachyourselfcs.com
+- https://github.com/talalalrawajfeh/mathematics-roadmap
 
 
 where recoginized thing reside
@@ -16,8 +16,7 @@ where recoginized thing reside
 - bittorrent client is a p2p system, allowing faster downloading by connecting to others user that have part of files
 - cache is born to store frequently accessed data, so try write in pattern(write code locally)
 
-
-## pattern
+pattern
 - what is implication the author want me to remember?
 - try instance to instance is not worth than finding the pattern, so give me a system way to master x, is there books that satisfy my ambition?
 - what if it is not exist
