@@ -1,5 +1,5 @@
 # book
-- be fr with yur computer mate!!
+- be fr with yur compute mate!!
 - links: 
  - https://teachyourselfcs.com
  - https://github.com/talalalrawajfeh/mathematics-roadmap
