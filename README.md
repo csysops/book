@@ -1,8 +1,11 @@
 # book
 - be fr with yur compute mate!!
 - links: 
- - https://teachyourselfcs.com
- - https://github.com/talalalrawajfeh/mathematics-roadmap
+- https://teachyourselfcs.com
+- https://github.com/talalalrawajfeh/mathematics-roadmap
+- coders at work
+- the practice of programming
+- 
 
 
 pattern
