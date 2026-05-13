@@ -5,7 +5,7 @@
 - https://github.com/talalalrawajfeh/mathematics-roadmap
 - coders at work
 - the practice of programming
-- 
+- programming pearls
 
 
 pattern
