@@ -6,6 +6,8 @@
 - coders at work
 - the practice of programming
 - programming pearls
+- gof
+- progit
 
 
 pattern
