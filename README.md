@@ -1,8 +1,11 @@
 # book
 - be fr with yur compute mate!!
-- links: 
+
+link
 - https://teachyourselfcs.com
 - https://github.com/talalalrawajfeh/mathematics-roadmap
+
+name
 - coders at work
 - the practice of programming
 - programming pearls
