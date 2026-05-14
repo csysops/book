@@ -8,6 +8,11 @@
 - programming pearls
 - gof
 - progit
+- k&r
+- feylec
+- structcs
+- topnet
+- csapp
 
 
 pattern
